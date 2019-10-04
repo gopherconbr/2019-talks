@@ -11,7 +11,7 @@ Please submit a PR with your slides.
 | Timeslot    | Speaker     | Slide Deck | Video | 
 | ----------- | ----------- | ---------- | ----- | 
 | 9:45 | Ricardo Longa / Cleverson Silva | [Apresentando a nossa Event Driven Architecture (100% escrita em Go)](https://docs.google.com/presentation/d/1IpzsiGLgmLf8W1Hl8qz_bnW4TVQ5xeVSyQka4EtYj_k/edit?usp=sharing) | |
-| 11:05 | Victor Santos | [Estratégias de deploy do Istio com Golang]() | |
+| 11:05 | Victor Santos | [Estratégias de deploy do Istio com Golang](vsantos.github.io/gophercon) | |
 | 11:55 | Guilherme Baptista | [Busca de alta performance com GraphQL e Elasticsearch](https://speakerdeck.com/gbaptista/gopherconbr-2019-busca-de-alta-performance-com-graphql-e-elasticsearch) | |
 | 14:30 | Marcela Sisiliani | [Case: Projeto SHIVA do Grupo Bandeirantes de Comunicação](http://bit.ly/masisiliani-gophercon2019) | |
 | 15:20 | Weverton do Couto Timoteo | [Analisando qualidade de código com Análise Estática e Linters](https://www.slideshare.net/wevtimoteo/gophercon-2019-analyzing-code-quality-with-static-analysis-and-linters) | |
